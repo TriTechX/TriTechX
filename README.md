@@ -4,13 +4,13 @@ I'm a passionate developer with a strong foundation in **Python**, experience bu
 
 ### 🔧 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/-CS-333333?style=flat&logo=c-sharp)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
-![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ---
 ### 💻 What I'm Working On
