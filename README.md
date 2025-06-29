@@ -23,7 +23,3 @@ I'm a passionate developer with a strong foundation in **Python**, experience bu
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TriTechX&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TriTechX&layout=compact&theme=tokyonight)
-
----
-### ✨ Fun Fact
-I probably break things just to fix them better 🚀
