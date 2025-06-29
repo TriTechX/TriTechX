@@ -6,9 +6,9 @@ I'm a passionate developer with a strong foundation in **Python**, experience bu
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
+![CS](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 
