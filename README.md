@@ -1,6 +1,7 @@
 # 👋 Hey there!
 
 I'm a passionate developer with a strong foundation in **Python**, experience building projects with **Unity** and **Flask**, and knowledge of **C++**, **C#** and **HTML/CSS**
+I am also very familiar with Roblox **Luau** and the **Lua** scripting language.
 
 ### 🔧 Tech Stack
 
@@ -11,6 +12,7 @@ I'm a passionate developer with a strong foundation in **Python**, experience bu
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 
 ---
 ### 💻 What I'm Working On
