@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-I'm a passionate developer with a strong foundation in **Python**, experience building projects with **Unity** and **Flask**, and knowledge of **C++**, **C#** and **HTML/CSS**.\n
+I'm a passionate developer with a strong foundation in **Python**, experience building projects with **Unity** and **Flask**, and knowledge of **C++**, **C#** and **HTML/CSS**.
 I am also very familiar with Roblox **Luau** and the **Lua** scripting language.
 
 ### 🔧 Tech Stack
